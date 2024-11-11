@@ -1,0 +1,257 @@
+[33mcommit 92483242c47c8ca6d8724a5755a74ab35f667f25[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jamill hallack <jnbezhal@gmail.com>
+Date:   Mon Nov 11 22:35:06 2024 +0400
+
+    Optimized gas usage in sorting algorithm by minimizing redundant operations and leveraging unchecked blocks. Successfully passed all tests.
+
+[33mcommit 76c2e378d9b2b7d8237b5b75fa1daff448fec783[m
+Author: omahs <73983677+omahs@users.noreply.github.com>
+Date:   Wed Feb 7 11:23:33 2024 +0100
+
+    fix typos (#32)
+
+[33mcommit ae1929ee6852a58b9aa68f3420b99c92c06de947[m
+Author: RareSkills <114334277+RareSkills@users.noreply.github.com>
+Date:   Thu May 11 17:53:06 2023 +0700
+
+    Update README.md
+
+[33mcommit de479bff09544c645d07023c144e260188305258[m
+Author: Jeffrey Scholz <scholz.jeffrey@gmail.com>
+Date:   Tue May 9 18:53:13 2023 +0700
+
+    add Security101
+
+[33mcommit 26cd61168fb5f74ef4ace85970d6c3fff2f969fe[m
+Author: RareSkills <114334277+RareSkills@users.noreply.github.com>
+Date:   Fri Apr 28 12:24:54 2023 +0700
+
+    Create LICENSE (#27)
+
+[33mcommit 604977fcb6b863e3680873681490eb33dd682c8b[m
+Author: Jeffrey Scholz <jeffreyscholz@Jeffreys-MacBook-Pro.local>
+Date:   Fri Mar 10 22:01:57 2023 +0700
+
+    clarify scope of optimization
+
+[33mcommit 1293873b82377de24f34971f7e3c9e8845866030[m
+Author: Shebin John <admin@remedcu.com>
+Date:   Sun Feb 19 21:18:21 2023 +0530
+
+    Consistent File Name for Optimized Contracts (#20)
+
+[33mcommit eb1f0c02b8c4f39da2b601ca44740695a5e08427[m
+Author: RareSkills <114334277+RareSkills@users.noreply.github.com>
+Date:   Mon Jan 16 13:55:50 2023 +0700
+
+    Update README.md
+
+[33mcommit 3f9a8c4d948ed90de8c701353aaa56d935d22dbf[m
+Author: RareSkills <114334277+RareSkills@users.noreply.github.com>
+Date:   Mon Jan 2 17:29:54 2023 -0800
+
+    Add vote (#24)
+    
+    * add Vote
+    
+    * update readme
+    
+    Co-authored-by: Jeffrey Scholz <jeffreyscholz@Jeffreys-MBP.lan1>
+
+[33mcommit 9ff37d549ea40c7e3791f8f0ed71da595bd93c72[m
+Author: Michael Burke <michael.dburke56@gmail.com>
+Date:   Wed Dec 14 20:35:45 2022 -0600
+
+    New puzzle/sorting (#22)
+    
+    * Implement tests and optimized contract.
+    
+    * Set gas target in test.
+
+[33mcommit 185e10dbf46c50a9ba6e28c71ec6af274563e31a[m
+Author: RareSkills <114334277+RareSkills@users.noreply.github.com>
+Date:   Wed Nov 9 12:26:04 2022 +0700
+
+    Update README.md
+
+[33mcommit bc41a5b5bd30f80d926d231a9be03459f8fe86ab[m
+Author: Abderrahmen (Abdou) <43687739+uranium93@users.noreply.github.com>
+Date:   Tue Nov 8 04:14:04 2022 +0400
+
+    Fix/distribute contract balance setup (#17)
+    
+    * feat: enhance test failure message readability
+    
+    * feat: enhance chai error display
+    
+    * fix: increase smart contract balance on deployment
+
+[33mcommit ecd18c88d2167bddbcc1a8f83b4764509fec43a8[m
+Author: Jeffrey Scholz <jeffreyscholz@Jeffreys-MacBook-Pro.local>
+Date:   Thu Nov 3 04:51:32 2022 +0700
+
+    add ERC165 puzzle
+
+[33mcommit 8488c551b0e2f4af6eafc22df66ddf3c94c2f69e[m
+Author: Jeffrey Scholz <scholz.jeffrey@gmail.com>
+Date:   Thu Oct 27 16:56:20 2022 +0700
+
+    Test title name is fixed
+
+[33mcommit 66ceb85add034e9dfa88c417400b028a2f558a05[m
+Author: Jeffrey Scholz <scholz.jeffrey@gmail.com>
+Date:   Thu Oct 27 11:11:24 2022 +0700
+
+    Update Mint150.sol
+    
+    clarify openzeppelin cannot be modified
+
+[33mcommit ccd1a049c350bddb4804e33a47bf276369b042a6[m
+Author: Jeffrey Scholz <jeffreyscholz@Jeffreys-MacBook-Pro.local>
+Date:   Wed Oct 26 20:58:45 2022 +0700
+
+    add mint150 puzzle
+
+[33mcommit 2a7880552f655844454ffb6b238a59f8e782755f[m
+Merge: 72c312b aff4962
+Author: Michael Burke <michael.dburke56@gmail.com>
+Date:   Wed Oct 26 08:45:37 2022 -0500
+
+    Merge pull request #19 from burke-md/linting
+    
+    Add prettier package and config file.
+
+[33mcommit aff4962b794b2b551f55660f940d226110b178af[m
+Author: MB <michael.dburke56@gmail.com>
+Date:   Wed Oct 26 08:38:05 2022 -0500
+
+    Add prettier package and config file.
+
+[33mcommit 72c312bcc162bdfcf280faa3e518ce87a243777d[m
+Author: Shebin John <admin@remedcu.com>
+Date:   Mon Oct 24 07:54:32 2022 +0530
+
+    Specific Test Typo Rectified (#18)
+
+[33mcommit a1b454b9b04c552d6eb8c0c2d30a3a7b4b13940d[m
+Author: RareSkills <114334277+RareSkills@users.noreply.github.com>
+Date:   Wed Oct 19 11:44:38 2022 +0700
+
+    Update README.md
+
+[33mcommit ef46a07f847b1c690f19bc21c1fce94c58aa6bb8[m
+Author: ᴊᴇsᴘᴇʀᴋ.ᴇᴛʜ <jesperkristensen58@users.noreply.github.com>
+Date:   Fri Oct 14 11:54:20 2022 -0400
+
+    Update README.md (#10)
+
+[33mcommit 0e7101526d6342c4e67f56be3dd3300604540ba5[m
+Author: ᴊᴇsᴘᴇʀᴋ.ᴇᴛʜ <jesperkristensen58@users.noreply.github.com>
+Date:   Fri Oct 14 11:53:48 2022 -0400
+
+    Update Require.js (#11)
+
+[33mcommit b282ab04a24f7f19c0605f54fa60f15284ec30e5[m
+Author: ᴊᴇsᴘᴇʀᴋ.ᴇᴛʜ <jesperkristensen58@users.noreply.github.com>
+Date:   Fri Oct 14 11:53:36 2022 -0400
+
+    Update ArraySum.js (#8)
+
+[33mcommit 4d2f822109af52ae580041ca3a58678393b91dca[m
+Author: ᴊᴇsᴘᴇʀᴋ.ᴇᴛʜ <jesperkristensen58@users.noreply.github.com>
+Date:   Fri Oct 14 11:53:10 2022 -0400
+
+    Update Distribute.js (#9)
+
+[33mcommit 3eddded0579699b6bd72d9cfbba4aae96a0a79b4[m
+Author: ᴊᴇsᴘᴇʀᴋ.ᴇᴛʜ <jesperkristensen58@users.noreply.github.com>
+Date:   Fri Oct 14 11:52:19 2022 -0400
+
+    Update Distribute.js (#13)
+
+[33mcommit c7165d4903cc2a9027746abaa45af68a6536ac8e[m
+Author: RareSkills <114334277+RareSkills@users.noreply.github.com>
+Date:   Wed Oct 5 16:24:23 2022 +0700
+
+    Add require (#7)
+    
+    Complete puzzle for Require
+
+[33mcommit 3dd5888f73c0c0a863ecc8d20bbb4a8d23236fe2[m
+Author: RareSkills <114334277+RareSkills@users.noreply.github.com>
+Date:   Wed Oct 5 11:42:31 2022 +0700
+
+    Update README.md
+
+[33mcommit a2019e945fa81cb8390374f9467043bd554170af[m
+Author: RareSkills <114334277+RareSkills@users.noreply.github.com>
+Date:   Wed Oct 5 11:41:41 2022 +0700
+
+    Update README.md
+
+[33mcommit 7b97218f7b3fe749495596d4899ed17ddf241ef6[m
+Merge: bd9a691 01ecf29
+Author: RareSkills <114334277+RareSkills@users.noreply.github.com>
+Date:   Wed Oct 5 11:36:37 2022 +0700
+
+    Merge pull request #6 from RareSkills/update-distributor
+    
+    lower gas threshold for distributor, add tests to other contracts
+
+[33mcommit 01ecf29f1e1891e8eb32b7c71a91f50f65b04b27[m
+Author: Jeffrey Scholz <jeffreyscholz@Jeffreys-MacBook-Pro.local>
+Date:   Wed Oct 5 11:35:24 2022 +0700
+
+    lower gas threshold for distributor, add tests to other contracts
+
+[33mcommit bd9a691f2972d3b0b40fb59361e7da660151e1ba[m
+Merge: 35ba4e1 c26bc4e
+Author: RareSkills <114334277+RareSkills@users.noreply.github.com>
+Date:   Tue Oct 4 22:37:07 2022 +0700
+
+    Merge pull request #5 from burke-md/test/Distribute
+    
+    Implement test case (logic/payable/gas) for Distribute contract.
+
+[33mcommit c26bc4e8391ca57a79de7b288cd3e4b71ec7bc67[m
+Author: MB <michael.dburke56@gmail.com>
+Date:   Mon Oct 3 09:45:52 2022 -0500
+
+    Add testing notes to README.
+    
+    Clear old test and set up new test for Distribute contract (not implemented).
+    
+    Setup the beforeEach deployment.
+    
+    Remove un-needed file/setup compiler version to match contracts.
+    
+    Implement payable requires for Distribute func.
+    
+    Import required packages for HH chain manipulation and big number. Implement business logic test for Distribute.
+    
+    Implement gas check requirments (need official target gasPrice for function).
+    
+    Clean up tests.
+    
+    Implement gas cost check.
+    
+    Remove deprecated 'revertReason' function/method.
+    
+    Rework w/ parseEther where possible.
+    
+    Change the method for measuring gas use.
+    
+    Log current gas usage while running test.
+    
+    Conditionally render a 'xxx gas below target' statment.
+    
+    Resolve typo in gas usage logging.
+
+[33mcommit 35ba4e1dcd08c2acdaec37e8be10f3b45bbd5661[m
+Author: Jeffrey Scholz <jeffreyscholz@Jeffreys-MacBook-Pro.local>
+Date:   Tue Sep 27 11:08:32 2022 +0700
+
+    payable rule
+
+[33mcommit 6649a72ca90754fb1795a2e8881563c40f54363d[m
+Author: Jeffrey Scholz <jeffreyscholz@Jeffreys-MacBook-Pro.
